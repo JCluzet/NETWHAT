@@ -1,6 +1,6 @@
 # netwhat42
 
-**Questions : 37**.<br/><br/>
+**Nombre de Questions : 37**.<br/><br/>
 
 Pour lancer le script :<br/>
 ./netwhat42 [nombre]<br/><br/>
